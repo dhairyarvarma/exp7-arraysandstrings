@@ -1,0 +1,12 @@
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    string str1 = "Harshil";
+    string str2 = "Nagori";
+    string result = str1 + str2;
+    cout << result << endl;
+    return 0;
+}
